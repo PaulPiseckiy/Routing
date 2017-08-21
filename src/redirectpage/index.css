@@ -1,0 +1,14 @@
+.notif {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(64, 64, 64);
+}
+
+.timer {
+  color: lightcoral;
+  animation: blink 1s ease-in-out infinite;
+}
+
+@keyframes blink {  
+  50% { opacity: 0; }
+}

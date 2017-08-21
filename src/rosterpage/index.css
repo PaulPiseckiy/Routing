@@ -1,0 +1,29 @@
+.roster-nav > a {
+  color: rgb(64, 64, 64);
+  text-decoration: none;
+  font-size: 40px;
+  transition: all 0.30s ease-in-out;
+}
+
+.roster-nav > a:hover {
+  color: lightgreen;
+}
+
+.roster-animal-logo {
+  text-align: center;
+  color: lightgreen;
+  
+}
+
+.roster-back {
+  text-decoration: none;
+  color: rgb(64, 64, 64);
+  transition: all 0.30s ease-in-out;
+  border: 1px solid lightgreen;
+  border-radius: 3px;
+  padding: 10px 20px 10px 20px;
+}
+
+.roster-back:hover {
+  background-color: lightgreen;
+}
